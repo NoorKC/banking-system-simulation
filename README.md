@@ -28,4 +28,4 @@ A simple Java-based banking system that simulates account creation, deposits, wi
 This is a beginner-friendly simulation designed for academic practice — not for real banking use (unless you're planning to start EkBank™, in which case call me 😎)
 
 ---
-Coded by Eknoor 💰✨
+Coded with love (and some effort) by Eknoor
