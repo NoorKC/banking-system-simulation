@@ -1,0 +1,6 @@
+accounts.csv
+100,pass100,A Lamont,1000.00
+101,pass101,D Berry,5000.00
+102,pass102,W Lowe,12000.00
+103,pass103,P Kennedy,23000.50
+104,pass104,T Allen,7500.75
